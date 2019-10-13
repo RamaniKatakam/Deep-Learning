@@ -1,0 +1,1 @@
+Deep Learning model for Image Classification -Zip Folder contains train and test data folders with sub image folders. Flattened the data from the folders and preocessed it. Built Deep Learning model using Torch and classified test data images.
